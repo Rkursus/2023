@@ -79,9 +79,9 @@ Aine läbimiseks on vaja:
 
 # Tunniplaan
 
-Õppeaine toimub 2021/2022. õppeaasta sügissemestril. 
+Õppeaine toimub 2023/2024. õppeaasta sügissemestril. 
 
-* Praktikumid **teisipäeviti kell 14:15** ja **neljapäeviti kell 8:15**  
+* Praktikumid **teisipäeviti kell 16:15** ja **neljapäeviti kell 8:15**  
 	* I rühm nädalatel 2 - 6
 	* Mikrokraadi rühm nädalatel 2 - 6
 	* II rühm nädalatel 7 - 11
@@ -98,6 +98,6 @@ Aine läbimiseks on vaja:
 
 # Kontakt ja küsimused
 
-* I rühm - Kaari Kuus kaari.kuus [at] ut.ee
+* I rühm - Willem Klaassen willem.klaassen [at] ut.ee
 * II rühm - Anne Selart anne.selart [at] ut.ee ja Deltas kab. 4070.
-* Mikrokraadiprogramm - Reijo Sepp reijo.sepp [at] ut.ee
+* Mikrokraadiprogramm - Kaari Kuus kaari.kuus [at] ut.ee
