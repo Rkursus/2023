@@ -82,8 +82,8 @@ Aine läbimiseks on vaja:
 Õppeaine toimub 2023/2024. õppeaasta sügissemestril. 
 
 * Praktikumid **teisipäeviti kell 16:15** ja **neljapäeviti kell 8:15**  
-	* I rühm nädalatel 2 - 6
-	* Mikrokraadi rühm nädalatel 2 - 6
+	* I rühm nädalatel 1 - 5
+	* Mikrokraadi rühm nädalatel 1 - 5
 	* II rühm nädalatel 7 - 11
 * **Projektide tähtaeg**:
 	* I rühm (aeg täpsustamisel) (nädal 8).
