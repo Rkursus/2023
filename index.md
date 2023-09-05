@@ -86,9 +86,9 @@ Aine läbimiseks on vaja:
 	* Mikrokraadi rühm nädalatel 1 - 5
 	* II rühm nädalatel 7 - 11
 * **Projektide tähtaeg**:
-	* I rühm (aeg täpsustamisel) (nädal 8).
-	* Mikrokraadi rühm (aeg täpsustamisel) (nädal 8).
-	* II rühm (aeg täpsustamisel) (nädal 13).
+	* I rühm (aeg täpsustamisel) (nädal 7?).
+	* Mikrokraadi rühm (aeg täpsustamisel) (nädal 7?).
+	* II rühm (aeg täpsustamisel).
 * **Projektide ettekandmine**:
 	* I rühm  (aeg täpsustamisel).
 	* Mikrokraadi rühm (aeg täpsustamisel)
