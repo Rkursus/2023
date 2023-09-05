@@ -86,9 +86,9 @@ Aine läbimiseks on vaja:
 	* Mikrokraadi rühm nädalatel 2 - 6
 	* II rühm nädalatel 7 - 11
 * **Projektide tähtaeg**:
-	* I rühm **neljapäeval, 21. oktoober kell 12:00** (nädal 8).
-	* Mikrokraadi rühm **neljapäeval, 21. oktoober kell 12:00** (nädal 8).
-	* II rühm **neljapäeval, 25. november kell 12:00** (nädal 13).
+	* I rühm (aeg täpsustamisel) (nädal 8).
+	* Mikrokraadi rühm (aeg täpsustamisel) (nädal 8).
+	* II rühm (aeg täpsustamisel) (nädal 13).
 * **Projektide ettekandmine**:
 	* I rühm  (aeg täpsustamisel).
 	* Mikrokraadi rühm (aeg täpsustamisel)
@@ -99,5 +99,5 @@ Aine läbimiseks on vaja:
 # Kontakt ja küsimused
 
 * I rühm - Willem Klaassen willem.klaassen [at] ut.ee
-* II rühm - Anne Selart anne.selart [at] ut.ee ja Deltas kab. 4070.
+* II rühm - (täpsustamisel).
 * Mikrokraadiprogramm - Kaari Kuus kaari.kuus [at] ut.ee
