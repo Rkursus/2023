@@ -72,8 +72,8 @@ Joonised `ggplot2`-ga jätkub - joonisele kihtide lisamine, skaalade muutmine, j
 * [Praktikumi R kood](https://github.com/Rkursus/2023/raw/master/_praktikum6/praktikum6_kood.R)
 * Kodutöö III <!--Kodutöö](praktikum6_kodutoo.md)-->
     * Tähtaeg:
-		* I rühm - 31.09.2023 kell 23:59.
-		* Mikrokraadi rühm - 31.09.2023 kell 23:59.
+		* I rühm - 01.10.2023 kell 23:59.
+		* Mikrokraadi rühm - 01.10.2023 kell 23:59.
 		* II rühm - (aeg täpsustamisel).
 
 ## Praktikum 7
