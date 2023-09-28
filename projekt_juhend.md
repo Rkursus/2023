@@ -7,18 +7,11 @@ layout: page
 
 **Projekt tuleb esitada hiljemalt**
 
-- **I rühm**:   21. oktoober 2021 kell 12:00
-- **Mikrokraadiprogramm**:   21. oktoober 2021 kell 12:00
-- **II rühm**:  25. november 2021 kell 12:00
+- **I rühm**:   xx. oktoober 2023 kell 12:00
+- **Mikrokraadiprogramm**:   xx. oktoober 2023 kell 12:00
+- **II rühm**:  xx. november 2023 kell 12:00
 
 Projektid esitage Moodle keskkonna kaudu. Kõikides saadetud töö failide nimedes peab kajastuma tudengi(te) nimi.
-
-Projektide valmimise käigus tekkinud küsimuste ja probleemide lahendamiseks on võimalus tulla ja küsida järgmistel aegadel (eelnevalt peab konsultatsiooni soovist teada andma):
-
-- **I rühm** T, 19. oktoober 2021 kell 14:15.
-- **Mikrokraadiprogramm** T, 19. oktoober 2021 kell 14:15.
-- **II rühm** T, 23. november 2021 kell 14:15.
-
 
 
 ## Eesmärk
