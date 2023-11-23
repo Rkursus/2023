@@ -84,15 +84,15 @@ Aine läbimiseks on vaja:
 * Praktikumid **teisipäeviti kell 16:15** ja **neljapäeviti kell 8:15 (I rühm)/16:15 (mikrokraad)**  
 	* I rühm nädalatel 1 - 5
 	* Mikrokraadi rühm nädalatel 1 - 5
-	* II rühm nädalatel 7 - 11
+	* II rühm nädalatel 9 - 13
 * **Projektide tähtaeg**:
 	* I rühm (aeg täpsustamisel) (nädal 7?).
 	* Mikrokraadi rühm (aeg täpsustamisel) (nädal 7?).
-	* II rühm (aeg täpsustamisel).
+	* II rühm 17.12.23
 * **Projektide ettekandmine**:
 	* I rühm  (aeg täpsustamisel).
 	* Mikrokraadi rühm (aeg täpsustamisel)
-	* II rühm (aeg täpsustamisel).
+	* II rühm 21.12.23.
 
 <br/>
 
