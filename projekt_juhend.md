@@ -9,7 +9,7 @@ layout: page
 
 - **I rühm**:   xx. oktoober 2023 kell 12:00
 - **Mikrokraadiprogramm**:   xx. oktoober 2023 kell 12:00
-- **II rühm**:  xx. november 2023 kell 12:00
+- **II rühm**:  17. detsember 2023 kell 23:59
 
 Projektid esitage Moodle keskkonna kaudu. Kõikides saadetud töö failide nimedes peab kajastuma tudengi(te) nimi.
 
